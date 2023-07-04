@@ -69,6 +69,8 @@ However, we provide preprocessed data files for our purpose:
 
 * In scr_build_models and scr_test_models, a total of 10 models are built and tested, which takes quite a bit of time.  You could skip some of them by commenting out the corresponding parts in those scripts.  
 
+* You can find [digitized extracts](https://mega.nz/folder/hetiBBoI#___nZL_FD9ivuSuX7c6Sog) of plots from [2].
+
 
 
 # References and contact
